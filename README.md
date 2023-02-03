@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, web spider;
 - 🌱 I’m currently learning nothing;
 - 💞️ I’m looking to collaborate on nothing;
-- 📫 How to reach me ...
+- 📫 How to reach me at 1977649208@qq.com
 
 <!---
 c4-driod/c4-driod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
