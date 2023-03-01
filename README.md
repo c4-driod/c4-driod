@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @c4-driod
+- 👋 Hi, I’m @c4-driod;
 - 👀 I’m interested in AI, web spider;
-- 🌱 I’m currently learning nothing;
-- 💞️ I’m looking to collaborate on nothing;
-- 📫 How to reach me at 1977649208@qq.com
+- 🌱 I’m currently learning Robot Building;
+- 📫 You can reach me at 1977649208@qq.com
 
 <!---
 c4-driod/c4-driod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
